@@ -1,0 +1,209 @@
+20.9.2023, 22:44:28 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 22:46:40 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 22:46:54 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 22:47:49 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 22:47:53 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 22:48:06 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 22:48:09 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 22:48:13 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 22:50:18 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 22:50:23 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 22:50:24 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 23:05:44 - ERROR - Cannot get toy | Toy not found!
+20.9.2023, 23:14:17 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 23:14:26 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 23:14:34 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 23:14:36 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 23:14:49 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 23:15:36 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 23:50:06 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 23:51:02 - INFO - Server listening on port http://127.0.0.1:3030/
+20.9.2023, 23:54:07 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 8:39:06 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 8:40:31 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 8:42:51 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 8:42:53 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 8:45:23 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 8:45:29 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 8:53:57 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 8:53:59 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 8:56:47 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 8:56:50 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 8:57:59 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 8:58:07 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 8:58:31 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 8:59:44 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:03:48 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:05:09 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:17:23 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:17:35 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:17:48 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:34:38 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:34:52 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:34:53 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:35:41 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:35:47 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:36:08 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:37:16 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:37:28 - DEBUG - toy | {"_id":"t104","speed":null,"price":18}
+21.9.2023, 9:38:44 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:41:01 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:41:05 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:41:15 - DEBUG - toy | {"_id":"t103","speed":null,"price":20}
+21.9.2023, 9:46:17 - DEBUG - toy | {"name":"sdfdsf","inStock":true,"price":7}
+21.9.2023, 9:46:26 - DEBUG - toy | {"_id":"janIz","speed":null,"price":11}
+21.9.2023, 9:47:18 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:47:20 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:47:49 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:48:08 - DEBUG - toy | {"name":"asdas","inStock":true,"price":4,"labels":"asdsa"}
+21.9.2023, 9:48:37 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:48:39 - DEBUG - toy | {"_id":"8dfNX","name":"asdasssssssss","inStock":true,"price":4,"labels":"asdsa"}
+21.9.2023, 9:49:14 - DEBUG - toy | {"name":"asd","inStock":true,"price":5,"labels":"sdf"}
+21.9.2023, 9:49:21 - DEBUG - toy | {"name":"ssssssssssssss","inStock":true,"price":3,"labels":"sssss"}
+21.9.2023, 9:49:30 - DEBUG - toy | {"_id":"Vrtmd","name":"ssssssssssssssfffff","inStock":false,"price":6,"labels":"sssssffffffff"}
+21.9.2023, 9:49:40 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:49:58 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 9:50:05 - DEBUG - toy | {"name":"ssssssss","inStock":true,"price":4,"labels":"sdf"}
+21.9.2023, 12:51:03 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 12:52:00 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 12:52:09 - DEBUG - toy | {"_id":"t102","name":"Remote Control Car","inStock":true,"price":56,"labels":["On wheels","Battery Powered","Outdoor"]}
+21.9.2023, 12:52:17 - DEBUG - toy | {"_id":"t104","name":"Wooden Puzzle","inStock":true,"price":26,"labels":["Puzzle"]}
+21.9.2023, 12:52:22 - DEBUG - toy | {"_id":"t105","name":"Outdoor Soccer Ball !!","inStock":true,"price":10,"labels":["Outdoor"]}
+21.9.2023, 12:52:25 - DEBUG - toy | {"_id":"t101","name":"Talking Doll","inStock":false,"price":123,"labels":["Doll","Battery Powered","Baby"]}
+21.9.2023, 12:52:32 - DEBUG - toy | {"_id":"t101","name":"Talking Doll","inStock":true,"price":123,"labels":["Doll","Battery Powered","Baby"]}
+21.9.2023, 14:48:49 - DEBUG - toy | {"_id":"t101","name":"Talking Doll","inStock":true,"price":123,"labels":["Battery Powered","Baby","Doll","On wheels","Box game"]}
+21.9.2023, 14:48:56 - DEBUG - toy | {"_id":"t101","name":"Talking Doll","inStock":true,"price":123,"labels":[]}
+21.9.2023, 14:49:44 - DEBUG - toy | {"_id":"t101","name":"Talking Doll","inStock":true,"price":123,"labels":[]}
+21.9.2023, 14:49:48 - DEBUG - toy | {"_id":"t102","name":"Remote Control Car","inStock":true,"price":56,"labels":["On wheels","Battery Powered"]}
+21.9.2023, 14:50:20 - DEBUG - toy | {"_id":"t101","name":"Talking Doll","inStock":true,"price":123,"labels":["On wheels","Box game","Art","Baby","Doll","Puzzle","Outdoor","Battery Powered"]}
+21.9.2023, 14:50:49 - DEBUG - toy | {"_id":"t101","name":"Talking Doll","inStock":true,"price":127,"labels":["On wheels","Box game","Art","Baby","Doll","Puzzle","Outdoor","Battery Powered"]}
+21.9.2023, 14:51:47 - DEBUG - toy | {"_id":"t101","name":"Talking Doll","inStock":false,"price":127,"labels":["On wheels","Box game","Art","Baby","Doll","Puzzle","Outdoor","Battery Powered"]}
+21.9.2023, 14:51:49 - DEBUG - toy | {"_id":"t101","name":"Talking Doll","inStock":true,"price":127,"labels":["On wheels","Box game","Art","Baby","Doll","Puzzle","Outdoor","Battery Powered"]}
+21.9.2023, 14:51:50 - DEBUG - toy | {"_id":"t101","name":"Talking Doll","inStock":true,"price":127,"labels":["On wheels","Box game","Doll","Puzzle","Outdoor","Battery Powered"]}
+21.9.2023, 14:53:16 - DEBUG - toy | {"_id":"t101","name":"Talking Doll","inStock":true,"price":127,"labels":["On wheels","Box game","Doll","Puzzle","Outdoor","Battery Powered","Baby","Art"]}
+21.9.2023, 14:53:21 - DEBUG - toy | {"_id":"t103","name":"Artistic Coloring Set","inStock":false,"price":20,"labels":["Art","Baby","Puzzle","Outdoor"]}
+21.9.2023, 14:53:34 - DEBUG - toy | {"name":"asdasd","inStock":false,"price":5,"labels":["","Baby","Box game","Art"]}
+21.9.2023, 15:32:57 - DEBUG - toy | {"_id":"t101","name":"Talking Doll","inStock":true,"price":127,"labels":["On wheels","Box game","Doll","Puzzle","Outdoor","Battery Powered","Baby","Art"]}
+21.9.2023, 15:33:02 - DEBUG - toy | {"_id":"t102","name":"Remote Control Car","inStock":true,"price":56,"labels":["On wheels","Battery Powered"]}
+21.9.2023, 15:33:04 - DEBUG - toy | {"_id":"t105","name":"Outdoor Soccer Ball !!","inStock":true,"price":10,"labels":["Outdoor","On wheels"]}
+21.9.2023, 15:33:06 - DEBUG - toy | {"_id":"t104","name":"Wooden Puzzle","inStock":true,"price":26,"labels":["Puzzle","On wheels"]}
+21.9.2023, 15:33:08 - DEBUG - toy | {"_id":"t101","name":"Talking Doll","inStock":true,"price":127,"labels":["On wheels","Box game","Doll","Puzzle","Outdoor","Battery Powered","Baby","Art"]}
+21.9.2023, 15:33:10 - DEBUG - toy | {"_id":"t102","name":"Remote Control Car","inStock":true,"price":56,"labels":["On wheels","Battery Powered"]}
+21.9.2023, 15:52:46 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 15:53:09 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 16:31:45 - DEBUG - toy | {"_id":"t104","name":"Wooden Puzzle","inStock":true,"price":26,"labels":["On wheels"]}
+21.9.2023, 16:31:56 - DEBUG - toy | {"_id":"t102","name":"Remote Control Car","inStock":true,"price":56,"labels":["On wheels","Battery Powered","Box game"]}
+21.9.2023, 17:24:43 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 20:10:25 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:10:26 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:12:27 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:12:30 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:12:41 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:12:59 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:15:03 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:15:48 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:15:49 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:16:25 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:16:32 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 20:16:35 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:16:59 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:19:11 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 20:19:22 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 20:21:13 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 20:21:23 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 20:21:26 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:21:27 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:21:29 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:21:30 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:21:31 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:22:26 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 20:22:27 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 20:22:30 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:39:06 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:39:06 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:39:07 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:40:02 - ERROR - Cannot get toy | Toy not found!
+21.9.2023, 20:43:57 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 20:43:59 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 20:44:48 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 20:45:02 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:01:12 - DEBUG - toy | {"name":"box game","inStock":true,"price":0,"labels":["","Box game"]}
+21.9.2023, 21:01:19 - DEBUG - toy | {"_id":"79JwS","name":"box game","inStock":true,"price":10,"labels":["","Box game"]}
+21.9.2023, 21:23:45 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:23:46 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:26:43 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:27:09 - DEBUG - toy | {"name":"ssss","inStock":false,"price":3,"labels":["","Box game"]}
+21.9.2023, 21:29:22 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:29:48 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:30:20 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:30:38 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:50:22 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:51:53 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:52:29 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:52:48 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:53:24 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:56:01 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:56:03 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:56:09 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:56:47 - DEBUG - toy | {"_id":"t102","name":"Remote Control Car","inStock":false,"price":45,"labels":["On wheels","Battery Powered","Outdoor"]}
+21.9.2023, 21:57:17 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:58:16 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:58:55 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 21:59:18 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 22:00:37 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 22:00:52 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 22:02:33 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 22:02:37 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 22:02:47 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 22:02:55 - INFO - Server listening on port http://127.0.0.1:3030/
+21.9.2023, 22:03:12 - DEBUG - toy | {"name":"rrrrrr","inStock":true,"price":5,"labels":["","Art","Baby","Doll"]}
+21.9.2023, 22:07:00 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 11:56:38 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 12:32:37 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 12:35:03 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 13:09:58 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 13:10:12 - DEBUG - toy | {"_id":"t117","name":"Puzzle: Underwater World","inStock":false,"price":24.99,"labels":["Puzzle"]}
+22.9.2023, 13:10:15 - DEBUG - toy | {"_id":"t104","name":"Wooden Puzzle","inStock":false,"price":19.99,"labels":["Puzzle"]}
+22.9.2023, 13:10:18 - DEBUG - toy | {"_id":"t112","name":"Drawing Paper Set","inStock":false,"price":9.99,"labels":["Art"]}
+22.9.2023, 13:10:27 - DEBUG - toy | {"_id":"t113","name":"Baby Rattle","inStock":false,"price":5.25,"labels":["Baby"]}
+22.9.2023, 13:10:45 - DEBUG - toy | {"_id":"t116","name":"Baby Mobile","inStock":true,"price":118.5,"labels":["Baby"]}
+22.9.2023, 13:10:58 - DEBUG - toy | {"_id":"t120","name":"Basketball Hoop","inStock":true,"price":429,"labels":["Outdoor"]}
+22.9.2023, 13:24:59 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 13:58:28 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 14:25:09 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 14:30:08 - DEBUG - toy | {"_id":"t105","name":"Outdoor Soccer Ball","inStock":true,"price":7.5,"labels":["Outdoor","On wheels"]}
+22.9.2023, 14:33:28 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 14:35:42 - DEBUG - toy | {"_id":"t102","name":"Remote Control Car","inStock":true,"price":110.5,"labels":["On wheels","Battery Powered","Outdoor"]}
+22.9.2023, 15:14:11 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 15:19:33 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 15:21:25 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 15:22:10 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 15:22:33 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 15:48:21 - DEBUG - toy | {"name":"ccccccccc","inStock":true,"price":3,"labels":["","On wheels"]}
+22.9.2023, 16:26:27 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:29:57 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:30:15 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:30:20 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:31:31 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:31:44 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:32:35 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:32:36 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:32:40 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:41:50 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:42:00 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:45:12 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:46:43 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:47:09 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:48:08 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:48:10 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:48:53 - DEBUG - toy | {"name":"ffff","inStock":true,"price":7,"labels":["","On wheels"]}
+22.9.2023, 16:49:51 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:50:00 - DEBUG - toy | {"name":"sss","inStock":true,"price":2,"labels":["","On wheels"]}
+22.9.2023, 16:50:16 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:50:23 - DEBUG - toy | {"name":"sdf","inStock":true,"price":3,"labels":["","Art"]}
+22.9.2023, 16:50:37 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:51:07 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:51:12 - DEBUG - toy | {"name":"sss","inStock":true,"price":2,"labels":["","Art"],"createdAt":1695390668239}
+22.9.2023, 16:54:16 - INFO - Server listening on port http://127.0.0.1:3030/
+22.9.2023, 16:54:49 - DEBUG - toy | {"name":"new doll :)","inStock":true,"price":64,"labels":["","Doll"],"createdAt":1695390874898}
+22.9.2023, 17:21:45 - INFO - Server listening on port http://127.0.0.1:3030/

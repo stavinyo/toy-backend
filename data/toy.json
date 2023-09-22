@@ -1,0 +1,225 @@
+[
+    {
+        "_id": "t101",
+        "name": "Talking Doll",
+        "price": 245.75,
+        "labels": [
+            "Doll",
+            "Battery Powered",
+            "Baby"
+        ],
+        "createdAt": 1631031801011,
+        "inStock": true
+    },
+    {
+        "_id": "t102",
+        "name": "Remote Control Car",
+        "price": 110.5,
+        "labels": [
+            "On wheels",
+            "Battery Powered",
+            "Outdoor"
+        ],
+        "createdAt": 1631031901011,
+        "inStock": true
+    },
+    {
+        "_id": "t103",
+        "name": "Artistic Coloring Set",
+        "price": 33.25,
+        "labels": [
+            "Art",
+            "Baby"
+        ],
+        "createdAt": 1631032001011,
+        "inStock": false
+    },
+    {
+        "_id": "t104",
+        "name": "Wooden Puzzle",
+        "price": 19.99,
+        "labels": [
+            "Puzzle"
+        ],
+        "createdAt": 1631032233011,
+        "inStock": false
+    },
+    {
+        "_id": "t105",
+        "name": "Outdoor Soccer Ball",
+        "price": 7.5,
+        "labels": [
+            "Outdoor"
+        ],
+        "createdAt": 1631032203311,
+        "inStock": true
+    },
+    {
+        "_id": "t106",
+        "name": "Board Game: Chess",
+        "price": 40,
+        "labels": [
+            "Box game",
+            "Outdoor"
+        ],
+        "createdAt": 1631032304311,
+        "inStock": true
+    },
+    {
+        "_id": "t107",
+        "name": "Watercolor Paint Set",
+        "price": 12.75,
+        "labels": [
+            "Art",
+            "Baby"
+        ],
+        "createdAt": 1631032401011,
+        "inStock": true
+    },
+    {
+        "_id": "t108",
+        "name": "Stuffed Teddy Bear",
+        "price": 28.99,
+        "labels": [
+            "Baby"
+        ],
+        "createdAt": 1631031201011,
+        "inStock": true
+    },
+    {
+        "_id": "t109",
+        "name": "Robot Building Kit",
+        "price": 199.99,
+        "labels": [
+            "Battery Powered",
+            "Outdoor"
+        ],
+        "createdAt": 1631032602222,
+        "inStock": true
+    },
+    {
+        "_id": "t110",
+        "name": "Jigsaw Puzzle: Space",
+        "price": 14.5,
+        "labels": [
+            "Puzzle"
+        ],
+        "createdAt": 1623232701011,
+        "inStock": true
+    },
+    {
+        "_id": "t111",
+        "name": "Rocking Horse",
+        "price": 89.95,
+        "labels": [
+            "On wheels",
+            "Outdoor"
+        ],
+        "createdAt": 1631032801011,
+        "inStock": true
+    },
+    {
+        "_id": "t112",
+        "name": "Drawing Paper Set",
+        "price": 9.99,
+        "labels": [
+            "Art"
+        ],
+        "createdAt": 1631033901011,
+        "inStock": false
+    },
+    {
+        "_id": "t113",
+        "name": "Baby Rattle",
+        "price": 5.25,
+        "labels": [
+            "Baby"
+        ],
+        "createdAt": 1631033003411,
+        "inStock": false
+    },
+    {
+        "_id": "t114",
+        "name": "Remote Control Helicopter",
+        "price": 74.99,
+        "labels": [
+            "Battery Powered",
+            "Outdoor"
+        ],
+        "createdAt": 1631343101011,
+        "inStock": true
+    },
+    {
+        "_id": "t115",
+        "name": "Art Easel",
+        "price": 29.95,
+        "labels": [
+            "Art"
+        ],
+        "createdAt": 1631032301011,
+        "inStock": true
+    },
+    {
+        "_id": "t116",
+        "name": "Baby Mobile",
+        "price": 118.5,
+        "labels": [
+            "Baby"
+        ],
+        "createdAt": 16310332301011,
+        "inStock": true
+    },
+    {
+        "_id": "t117",
+        "name": "Puzzle: Underwater World",
+        "price": 24.99,
+        "labels": [
+            "Puzzle"
+        ],
+        "createdAt": 1631033402341,
+        "inStock": false
+    },
+    {
+        "_id": "t118",
+        "name": "Kick Scooter",
+        "price": 45.75,
+        "labels": [
+            "On wheels",
+            "Outdoor"
+        ],
+        "createdAt": 1631033502342,
+        "inStock": true
+    },
+    {
+        "_id": "t119",
+        "name": "Finger Painting Kit",
+        "price": 8.49,
+        "labels": [
+            "Art",
+            "Baby"
+        ],
+        "createdAt": 1631043601011,
+        "inStock": true
+    },
+    {
+        "_id": "t120",
+        "name": "Basketball Hoop",
+        "price": 429,
+        "labels": [
+            "Outdoor"
+        ],
+        "createdAt": 1631333701011,
+        "inStock": true
+    },
+    {
+        "name": "new doll :)",
+        "inStock": true,
+        "price": 64,
+        "labels": [
+            "",
+            "Doll"
+        ],
+        "createdAt": 1695390874898,
+        "_id": "AhSEk"
+    }
+]
